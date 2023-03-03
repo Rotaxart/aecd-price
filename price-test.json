@@ -1,4 +1,4 @@
 {
   "aecdUsdt": 3.67, 
-  "wallets": { "erc20": "0x6299853Ed89E426F16fb301Bc5b1e761eab53AE0", "trc20": "TGiSossMa4QcdimB64mbGj3fqcqGnxyptb", "aecd': "EQBwPmiNAaAi9zrc6vNlYayKsbb_F15b42HtQsW_incRBErJ" }  
+  "wallets": { "erc20": "0x6299853Ed89E426F16fb301Bc5b1e761eab53AE0", "trc20": "TGiSossMa4QcdimB64mbGj3fqcqGnxyptb", "aecd": "EQBwPmiNAaAi9zrc6vNlYayKsbb_F15b42HtQsW_incRBErJ" }  
 }
